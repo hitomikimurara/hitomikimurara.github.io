@@ -1,0 +1,53 @@
+.bg-image{
+	background:url("../img/mypicture.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+.white-bg{
+	background-color:whitesmoke;
+	color:red;
+}
+
+.navbar a {
+	color:black; font-family: 'Abril Fatface', cursive; font-size: 27
+}
+
+.nav-link {
+	font-size: :12
+}
+
+.heading{
+	color: white;
+	font-family: 'Abril Fatface', cursive; 
+	font-size: 70px;
+	position: relative;
+	top:200px;
+}
+
+button{
+	color:#ffcc80;
+	position: relative;
+	top:210px;
+	border-radius:100px;
+}
+
+.image{
+	url("../img/mypicture.jpg")
+}
+
+.card {
+
+	
+	
+	border: 1px solid grey;
+	background-color: whitesmoke;
+}
+
+.img-size{
+	width:100%;
+
+}
+
+.space{
+	padding:5px;
+}
